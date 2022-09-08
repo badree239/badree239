@@ -11,8 +11,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
+    print_hi('PyCharm')
 print('BADREE')
-def add(x,y):
-    return x+y
-print(ad(5,9))
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
